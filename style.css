@@ -1,0 +1,40 @@
+
+
+.nav {
+    background-color:#333333 ;
+    color: whitesmoke;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-title {
+    margin: 15px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    width: 40%;
+    justify-content: space-evenly;
+}
+
+.btn {
+    height: 30px;
+    width: 90px;
+    color: white;
+    background-color: #17a2b8;
+    border: none;
+    font: 20px;
+    box-shadow: 7px 7px #000000;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+
